@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.0"
+  },
+  "type": "module"
+}
+
